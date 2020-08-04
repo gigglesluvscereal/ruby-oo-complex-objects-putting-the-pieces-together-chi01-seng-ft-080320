@@ -1,7 +1,7 @@
 class Shoe
 
-def initialize=(title)
-  @title = title
+def initialize=(brand)
+  @brand = brand
 end
 
 end#
