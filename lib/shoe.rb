@@ -12,5 +12,6 @@ class Shoe
   end
   
   def cobble
+    puts "The"
 end#
 
