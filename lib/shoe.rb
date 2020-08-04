@@ -1,5 +1,8 @@
 class Shoe
 
+def initialize=(title)
+  @title
+end
 
 end#
 
